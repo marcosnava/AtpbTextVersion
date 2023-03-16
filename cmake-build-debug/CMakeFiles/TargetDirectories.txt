@@ -1,0 +1,3 @@
+/home/nava/projetos/Desenvolvimento/atpb/textVersion/AtpbTextVersion/cmake-build-debug/CMakeFiles/AtpbTextVersion.dir
+/home/nava/projetos/Desenvolvimento/atpb/textVersion/AtpbTextVersion/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/nava/projetos/Desenvolvimento/atpb/textVersion/AtpbTextVersion/cmake-build-debug/CMakeFiles/rebuild_cache.dir

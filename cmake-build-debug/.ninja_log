@@ -1,0 +1,6 @@
+# ninja log v5
+0	267	1678992590440115990	CMakeFiles/AtpbTextVersion.dir/main.cpp.o	f20526e90942eb8d
+197	303	1678992686356738633	AtpbTextVersion	9e94393e33e08446
+0	197	1678992686248737953	CMakeFiles/AtpbTextVersion.dir/CursesUtils.cpp.o	d6bb03a9291e76c6
+1	308	1678993338324353722	CMakeFiles/AtpbTextVersion.dir/AtpbTextVersion.cpp.o	c3a777764ccd0c3f
+308	404	1678993338416354511	AtpbTextVersion	49aea183b747c715
